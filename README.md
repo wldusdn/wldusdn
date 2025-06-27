@@ -1,21 +1,60 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=efc770&height=300&section=header&text=yeonwoo's%20Hub&fontSize=70)
+## 🌱 About me
+- 프로젝트 기획부터 배포, 사용자 경험 분석까지 <b>서비스 전반을 운영해 본 경험</b>이 있는 개발자
+- 다양한 프로젝트 경험을 통해 얻은 의사소통 능력으로 <b>원활한 협업</b>이 가능한 개발자
+- 성실한 태도와 노력으로 참여한 모든 부트캠프의 <b>우수훈련생 및 수상 이력</b>이 있는 개발자
+
+##  🚀 Tech Stack
+- **Main Stack** <br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white) <br/>
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+- **Stack being studied** <br/>
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&size=40&pause=1000&color=F7A94C&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%EB%8B%B9%EC%8B%A0%EC%9D%98+%ED%92%8D%EC%9A%94%EB%A1%9C%EC%9A%B4+%EB%94%94%EC%A7%80%ED%84%B8+%EC%83%9D%ED%99%9C%EC%9D%84+%EC%9C%84%ED%95%B4;%EB%85%B8%EB%A0%A5%ED%95%98%EA%B3%A0+%EC%9E%88%EB%8A%94+%EC%8B%A0%EC%9E%85+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%A7%80%EC%97%B0%EC%9A%B0%EC%9E%85%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
 
+## 🏫 Education
 
-#### <center>📞E-mail</center>   
-<center>wldusdndlqslek@gmail.com</center>
+- 🎓 부경대학교 정보통신공학과 졸업 <sub>(2020.03~2024.08)</sub>
+- 🤓 부산디지털스마트아카데미 4기 수료 <sub>(2024.01~2024.06)</sub>
+- 🖥️ LG U+ 유레카 프론트엔드 개발 1기 수료 <sub>(2024.06~2024.12)</sub>
 
-#### <center>📝B-log</center>
-<center>https://wldusdn.tistory.com</center>
+## 🌟 Certificates
 
-#### 🔧FE   
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- 📗 정보처리기사 <sub>(2023.11)</sub>
+- 📘 정보통신기사 <sub>(2023.12)</sub>
+- 📙 SQLD <sub>(2024.06)</sub>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldusdn)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 Awards
+- 🎖️ LG U+ 유레카 1기 우수 훈련생
+- 🎖️ LG U+ 유레카 1기 비대면반 최종 융합프로젝트 최우수상
+- 🎖️ 부산디지털스마트아카데미 우수 교육생
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=efc770&height=150&section=footer" />
+## 📝 Projects
+
+### 🦎 [Tailtales](https://github.com/Tail-tales)
+🚩 특수동물 반려인을 위한 커뮤니티 플랫폼 <sub>2025.04 ~ (진행중)</sub>
+- 관리자 페이지 UI 구현
+
+### 🐶 [댕댕어디가](https://github.com/WHERE-ARE-YOU-GOING-DAENG-DAENG)
+🚩 반려동물 동반 가능 시설 공유 플랫폼 <sub>2024.11~2024.12 (6주)</sub>
+- 프론트팀 팀장
+- Storybook을 활용한 공통 컴포넌트 디자인 관리
+- Google Map을 활용한 장소 검색 & 땅따먹기 기능 구현
+- github action을 활용한 CI/CD 구축
+- 서비스 배포 후 광고 및 유저 모집을 통한 피드백 반영 경험
+
+## 📝 Records
+📚 [개발블로그](https://wldusdn.tistory.com)
+
+## ☎️ Contact
+📧 wldusdndlqslek@gmail.com
