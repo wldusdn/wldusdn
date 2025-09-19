@@ -24,7 +24,6 @@ React/Vue 기반 UI 구현과 사용자 피드백 반영 경험을 바탕으로,
 ## 🏫 Education
 
 - 🎓 부경대학교 정보통신공학과 졸업 <sub>(2020.03~2024.08)</sub>
-- 🤓 부산디지털스마트아카데미 4기 수료 <sub>(2024.01~2024.06)</sub>
 - 🖥️ LG U+ 유레카 프론트엔드 개발 2회차 수료 <sub>(2024.06~2024.12)</sub>
 
 ## 🌟 Certificates
@@ -34,16 +33,11 @@ React/Vue 기반 UI 구현과 사용자 피드백 반영 경험을 바탕으로,
 - 📙 SQLD <sub>(2024.06)</sub>
 
 ## 🏆 Awards
-- 🎖️ 부산디지털스마트아카데미 4기 우수 교육생
 - 🎖️ LG U+ 유레카 1기 우수 훈련생
 - 🎖️ LG U+ 유레카 1기 최종 융합프로젝트 최우수상
 
 
 ## 📝 Projects
-
-### 🦎 [Tailtales](https://github.com/Tail-tales)
-🚩 특수동물 반려인을 위한 커뮤니티 플랫폼 <sub>2025.04 ~ (진행중)</sub>
-- 관리자 페이지 UI 구현
 
 ### 🐶 [댕댕어디가](https://github.com/WHERE-ARE-YOU-GOING-DAENG-DAENG)
 🚩 반려동물 동반 가능 시설 공유 플랫폼 <sub>2024.11~2024.12 (6주)</sub>
